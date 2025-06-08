@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`348cca4`](https://github.com/stdlib-js/stdlib/commit/348cca418f8031d4a5d456b015fa39dfbd084972) - **docs:** add notes _(by Athan Reines)_
 -   [`169c8cb`](https://github.com/stdlib-js/stdlib/commit/169c8cb745f97bbb0260c82fa4f7ccc56d3b9ed7) - **feat:** add `number/uint8/base/mul` _(by Athan Reines)_
 
 </details>
