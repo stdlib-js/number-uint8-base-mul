@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-mul@deno/mod.js';
+import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-mul@v0.1.1-deno/mod.js';
 ```
 
 #### mul( x, y )
@@ -97,7 +97,7 @@ v = mul( 5, 0 );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-mul@deno/mod.js';
+import mul from 'https://cdn.jsdelivr.net/gh/stdlib-js/number-uint8-base-mul@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'uint8'
